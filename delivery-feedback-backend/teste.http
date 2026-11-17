@@ -1,0 +1,6 @@
+POST http://localhost:8080/api/feedback
+Content-Type: application/json
+
+{
+"feedback": "A comida chegou fria, mas estava deliciosa!"
+}
